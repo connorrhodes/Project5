@@ -10,7 +10,8 @@ import android.widget.Chronometer;
 import android.widget.Toast;
 
 //Project 5
-//
+//Connor Rhodes
+//Implemented a timer using the Chronometer instead
 public class MainActivity extends Activity {
     Chronometer mChronometer;
 
